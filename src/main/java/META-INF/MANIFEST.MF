@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Main-Class: com.resume.Application
+Class-Path: LatencyUtils-2.0.3.jar spring-security-core-5.1.4.RELEASE.ja
+ r mapper-weekend-1.1.5.jar spring-context-5.1.5.RELEASE.jar jackson-dat
+ atype-jdk8-2.9.8.jar hibernate-validator-6.0.14.Final.jar spring-boot-s
+ tarter-json-2.1.3.RELEASE.jar classmate-1.4.0.jar fastjson-1.2.80.jar j
+ ackson-module-parameter-names-2.9.8.jar mapper-spring-boot-starter-2.1.
+ 5.jar spring-boot-starter-logging-2.1.3.RELEASE.jar spring-boot-starter
+ -test-2.1.3.RELEASE.jar spring-webmvc-5.1.5.RELEASE.jar jaxb-api-2.3.1.
+ jar tomcat-embed-el-9.0.16.jar byte-buddy-agent-1.9.10.jar HikariCP-3.2
+ .0.jar spring-beans-5.1.5.RELEASE.jar jackson-datatype-jsr310-2.9.8.jar
+  spring-boot-starter-jdbc-2.1.3.RELEASE.jar objenesis-2.6.jar hutool-al
+ l-5.7.13.jar spring-boot-starter-web-2.1.3.RELEASE.jar spring-tx-5.1.5.
+ RELEASE.jar jackson-annotations-2.9.0.jar micrometer-core-1.1.3.jar map
+ per-extra-1.1.5.jar jsonassert-1.5.0.jar jackson-core-2.9.8.jar hamcres
+ t-core-1.3.jar hamcrest-library-1.3.jar mapper-core-1.1.5.jar spring-ao
+ p-5.1.5.RELEASE.jar tomcat-embed-websocket-9.0.16.jar mybatis-spring-1.
+ 3.2.jar spring-boot-configuration-processor-2.1.3.RELEASE.jar spring-ex
+ pression-5.1.5.RELEASE.jar validation-api-2.0.1.Final.jar spring-boot-t
+ est-autoconfigure-2.1.3.RELEASE.jar tomcat-embed-core-9.0.16.jar logbac
+ k-core-1.2.3.jar spring-core-5.1.5.RELEASE.jar spring-boot-starter-2.1.
+ 3.RELEASE.jar logback-classic-1.2.3.jar spring-boot-starter-tomcat-2.1.
+ 3.RELEASE.jar mybatis-3.4.6.jar asm-5.0.4.jar accessors-smart-1.2.jar s
+ pring-security-config-5.1.4.RELEASE.jar json-smart-2.3.jar commons-lang
+ 3-3.8.1.jar mockito-core-2.23.4.jar mysql-connector-java-5.1.47.jar act
+ ivation-1.1.jar log4j-api-2.11.2.jar tomcat-embed-jasper-9.0.16.jar xml
+ unit-core-2.6.2.jar javax.activation-api-1.2.0.jar persistence-api-1.0.
+ jar json-path-2.4.0.jar snakeyaml-1.23.jar spring-boot-starter-security
+ -2.1.3.RELEASE.jar javax.annotation-api-1.3.2.jar spring-jcl-5.1.5.RELE
+ ASE.jar byte-buddy-1.9.10.jar junit-4.12.jar log4j-to-slf4j-2.11.2.jar 
+ spring-boot-actuator-autoconfigure-2.1.3.RELEASE.jar spring-boot-actuat
+ or-2.1.3.RELEASE.jar HdrHistogram-2.1.9.jar assertj-core-3.11.1.jar mai
+ l-1.5.0-b01.jar spring-jdbc-5.1.5.RELEASE.jar jboss-logging-3.3.2.Final
+ .jar spring-web-5.1.5.RELEASE.jar commons-io-2.6.jar android-json-0.0.2
+ 0131108.vaadin1.jar commons-fileupload-1.3.1.jar spring-boot-starter-ac
+ tuator-2.1.3.RELEASE.jar spring-boot-2.1.3.RELEASE.jar mapper-base-1.1.
+ 5.jar spring-boot-autoconfigure-2.1.3.RELEASE.jar spring-test-5.1.5.REL
+ EASE.jar spring-security-web-5.1.4.RELEASE.jar spring-boot-test-2.1.3.R
+ ELEASE.jar ecj-3.15.0.jar mapper-spring-boot-autoconfigure-2.1.5.jar ma
+ pper-spring-1.1.5.jar jackson-databind-2.9.8.jar slf4j-api-1.7.25.jar j
+ ul-to-slf4j-1.7.25.jar
+
