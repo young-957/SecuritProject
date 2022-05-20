@@ -1,6 +1,7 @@
 package com.resume;
 
-import com.resume.util.BoundaryHelper;
+
+import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -16,6 +17,8 @@ import java.io.IOException;
  * @author Xiaoyue Xiao
  */
 
+
+@MapperScan("com.resume.mapper")
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
 
